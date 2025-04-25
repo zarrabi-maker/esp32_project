@@ -1,0 +1,13 @@
+{
+  "name": "node_getting_started",
+  "version": "1.0.0",
+  "description": "simpel web server with experssjs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "lecense": "ISC",
+  "dependencies":{
+    "express": "^4.17.1"
+  }  
+}
